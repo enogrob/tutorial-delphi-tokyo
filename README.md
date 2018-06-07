@@ -11,8 +11,33 @@ Solution Integrator Experienced - Certified by Ericsson
 
 Learn everything you need to about the subject of this `Tutorial` project.
 
-[Homepage](https://tutorial.com)
+[Tutorial: Using the IDE](http://docwiki.embarcadero.com/RADStudio/Tokyo/en/Tutorial:_Using_the_IDE)
 
 ## Topics
 ```
+Introduction
+[x] What is RAD Studio?
+[x] Finding information
+Tour of the IDE
+[x] First Look and Welcome Page
+[ ] Toolbars
+[ ] Tools
+[ ] History Manager
+[ ] Subversion Integration in the IDE
+[ ] Data Explorer
+[ ] Object Repository
+[ ] IDE Insight
+Starting your first RAD Studio application
+[ ] Using project templates from the Object Repository
+[ ] Basic customization of the main form
+[ ] Adding the components using the Form Designer
+[ ] Customizing the components
+[ ] Coding responses to user actions in the Code Editor
+[ ] Compiling and running the application
+[ ] Debugging the application
+More advanced topics
+[ ] FireMonkey and RTL
+[ ] Third party add-ins
+Other resources
+[ ] Embarcadero Developer Network
 ```
