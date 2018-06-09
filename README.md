@@ -20,11 +20,11 @@ Introduction
 [x] Finding information
 Tour of the IDE
 [x] First Look and Welcome Page
-[ ] Toolbars
-[ ] Tools
-[ ] History Manager
-[ ] Subversion Integration in the IDE
-[ ] Data Explorer
+[x] Toolbars
+[x] Tools
+[x] History Manager
+[x] Subversion Integration in the IDE
+[x] Data Explorer
 [ ] Object Repository
 [ ] IDE Insight
 Starting your first RAD Studio application
