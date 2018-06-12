@@ -25,8 +25,8 @@ Tour of the IDE
 [x] History Manager
 [x] Subversion Integration in the IDE
 [x] Data Explorer
-[ ] Object Repository
-[ ] IDE Insight
+[x] Object Repository
+[x] IDE Insight
 Starting your first RAD Studio application
 [ ] Using project templates from the Object Repository
 [ ] Basic customization of the main form
